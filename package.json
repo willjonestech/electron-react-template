@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "css-loader": "^3.2.0",
-    "electron": "^9.0.4",
+    "electron": "^9.3.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "webpack-dev-server": "^3.8.0"
